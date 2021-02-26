@@ -1,2 +1,2 @@
-# Systematic-Program-Design-C-
+# Systematic-Program-Design-CPP
 Trying to apply stuff I learn from How to Code: Systematic Program Design to C++
