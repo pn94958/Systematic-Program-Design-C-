@@ -26,16 +26,9 @@ bool CheckExpect(int a, int b)
 int power(int num, int powr)
 {
     int result = 1;
-    if(powr == 0)
+    for(int i = 0; i < powr; i++)
     {
-        result = 1;
-    }
-    else
-    { 
-        for(powr; powr > 0; powr--)
-        {
-            result = result * num;
-        }
+        result = result * num;
     }
     return result;
 }
